@@ -1,6 +1,6 @@
 ---
 title: "Project: BikeNYC 2020"
-image: "images/projects/bikenyc2020-splash.jpg"
+image: "/images/projects/bikenyc2020-splash.jpg"
 description: Description of BikeNYC 2020 project
 year: 2017
 draft: false
