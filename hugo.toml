@@ -1,0 +1,4 @@
+baseURL = 'https://arthur.nyc'
+languageCode = 'en-us'
+title = 'Arthur Hanna'
+theme = "affiche"
