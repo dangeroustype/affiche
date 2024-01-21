@@ -1,6 +1,6 @@
 {{- with resources.Get "js/main.js" }}
   {{- if eq hugo.Environment "development" }}
-    {{- with . | js.Build }}
+    {{- with . | js.Build "js/bundle.js" }}
       <script src="{{ .RelPermalink }}"></script>
     {{- end }}
   {{- else }}
