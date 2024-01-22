@@ -2,11 +2,12 @@
 title: Vision Zero Cities
 image: "/images/projects/vz-cities-schedule.jpg"
 description: Description of Vision Zero Cities project
+summary: This project was for the Transportation Alternatives Vision Zero Cities conference.
 year: 2016
 draft: false
 ----
 
-This project was for the Transportation Alternatives Vision Zero Cities conference. [Visit the site](https://www.visionzerocities.org).
+{{< button href="https://web.archive.org/web/20180815160919/https://www.visionzerocities.org/" >}}Visit the Site{{< /button >}}
 
 ## My Role
 

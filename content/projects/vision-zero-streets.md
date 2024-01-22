@@ -2,11 +2,12 @@
 title: Vision Zero Streets
 image: "/images/projects/vzstreets-desktop.jpg"
 description: Description of Vision Zero Streets project
+summary: This site was intended to be a resource for urban planners interested in creating complete streets.
 year: 2015
 draft: false
 ----
 
-This site is intended to be a very pared-down, simple resource for urban planners interested in creating complete streets. [Visit the site](https://www.visionzerostreets.org). 
+{{< button href="https://web.archive.org/web/20190714012204/https://www.visionzerostreets.org/" >}}Visit the Site{{< /button >}}
 
 ## Planning
 

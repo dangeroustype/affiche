@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* overriding h2s with Tailwind styles */
+
+h2 {
+    letter-spacing: -0.025em;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 1.5rem;
+    margin-top: 4rem;
+}
