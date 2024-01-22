@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {},
   },
+  darkMode: ['class', '[data-mode="daaaark"]'], // change class name disable until I build toggle
   plugins: [
     // ...
     require('@tailwindcss/forms'),
