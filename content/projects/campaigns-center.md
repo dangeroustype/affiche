@@ -4,9 +4,6 @@ image: "/images/projects/campaigns-center-home.png"
 description: Description of Campaigns Center project
 summary: "This project was an online survey by Transportation Alternatives designed to collect data about people's feelings on biking in New York City."
 year: 2016
-tags:
-  - Development
-  - Data Integration
 ----
 
 {{< button href="https://web.archive.org/web/20180308171043/https://campaigns.transalt.org/" >}}View the Site{{< /button >}}
